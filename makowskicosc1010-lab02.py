@@ -51,3 +51,8 @@ print(f"x / y = {x / y}")
         # last_name, which is your last name
         # space, which is a space character 
     # Use string concatenation to print out your full name 
+
+first_name = "Colter"
+last_name = "Makowski"
+space = " "
+print(f"{first_name}{space}{last_name}")
